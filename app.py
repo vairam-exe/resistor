@@ -5,7 +5,7 @@ import string
 import numpy as np
 import cv2
 import math
-from google.colab.patches import cv2_imshow # for local Streamlit, we don't need this, can use st.image
+ # for local Streamlit, we don't need this, can use st.image
 from PIL import Image
 import google.generativeai as genai
 
